@@ -5,6 +5,8 @@ I'm a **Full-Stack Web Developer** based in Amman, Jordan. I have a passion for 
 
 ## Projects
 - **[Hamdan Movies](https://stupendous-narwhal-37bed5.netlify.app/)**: This project is a movie library app that allows users to browse the latest movies based on categories.
+- **[Triangle Real Estate](https://curious-clafoutis-499a1c.netlify.app/)**: Triangle Real Estate is a web application built using React for buying and renting properties.
+
 
 ## Skills
 - **Languages**: JavaScript, C#
