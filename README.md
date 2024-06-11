@@ -1,4 +1,4 @@
-# Hello, I'm Moayad Hamdan! 👋
+# Hello, I'm Ibrahim Nimer! 👋
 
 ## About Me
 I'm a **Full-Stack Web Developer** based in Amman, Jordan. I have a passion for creating dynamic and responsive web applications. I specialize in both frontend and backend development, utilizing technologies like JavaScript, C#, and React.
