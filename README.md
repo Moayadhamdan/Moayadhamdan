@@ -9,9 +9,12 @@ I'm a **Full-Stack Web Developer** based in Amman, Jordan. I have a passion for 
 - **[Dern-Support](https://dern-support-project-yhe3.vercel.app/)**: This comprehensive Full-Stack Application is designed to streamline IT support management. It features Customer Account Management, Support Request Handling, Repair Scheduling, Inventory Management, a Knowledge Base, and Data Analytics. Built with ASP.NET Core for the backend, React for the frontend, and SQL Server for the database, Dern-Support enhances user experience and operational efficiency.
 
 ## Skills
-- **Languages**: JavaScript, C#
-- **Frameworks**: React
-- **Tools & Technologies**: Git, SQL, VS, Ubuntu
+- **Languages & Frameworks**: C#, JavaScript, .NET Core, ASP.NET Core Web API
+- **Knowledge**: React.js, Express.js, Node.js
+- **Tools & Platforms**: Azure DevOps, Jira, Git, VS
+- **Databases**: MySQL, SQL Server
+- **Development Practices**: OOP, QA Testing
+- **Soft Skills**: Project Analysis, Teamwork, Problem-Solving, Communication, Time Management, Adaptability, Creativity
 
 ## GitHub Stats
 ![Moayad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moayadhamdan&show_icons=true&theme=radical)
